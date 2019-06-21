@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs)
 <!-- default file list end -->
 # How to bind ASPxGridView with manually created columns to different data sources
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2967)**
+<!-- run online end -->
 
 
 <p>This example shows how to select and bind <strong>ASPxGridView</strong> to a data source at runtime. The page contains <strong>ASPxGridView</strong>, <strong>ASPxRadioButtonLis</strong><strong>t</strong> and three data sources (<strong>SqlDataSource</strong>). In design mode the grid doesn't have any column. You should add all columns manually by using an appropriate algorithm. We have created columns as this is done in selected data columns.  If a data source has insert, update or delete command, a command column will be appended to the grid.<br />
