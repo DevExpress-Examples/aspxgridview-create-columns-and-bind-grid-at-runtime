@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # How to bind ASPxGridView with manually created columns to different data sources
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2967)**
+**[[Run Online]](https://codecentral.devexpress.com/128537928/)**
 <!-- run online end -->
 
 
