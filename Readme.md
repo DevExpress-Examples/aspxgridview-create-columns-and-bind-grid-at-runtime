@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Grid View for ASP.NET Web Forms - How to create columns and bind the control to different data sources at runtime
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128537928/)**
-<!-- run online end -->
 
 This example demonstrates how to create columns and bind the [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) to different data sources at runtime. Select items in the [ASPxRadioButtonList](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxRadioButtonList) control to switch between [SQL data sources](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.sqldatasource?view=netframework-4.8).
 
