@@ -13,7 +13,7 @@ This example demonstrates how to create columns and bind the [ASPxGridView](http
 
 The grid does not have columns in design mode. All columns are added to the grid at runtime according to columns of the bound data source. If the data source has the [insert](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.sqldatasource.insertcommand?view=netframework-4.8), [update](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.sqldatasource.updatecommand?view=netframework-4.8), or [delete](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.sqldatasource.deletecommand?view=netframework-4.8) command, the grid displays the [command column](https://docs.devexpress.com/AspNet/3701/components/grid-view/concepts/data-representation-basics/columns/command-columns?p=netframework).
 
-Note that the grid's [EnableViewState](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.control.enableviewstate#System_Web_UI_Control_EnableViewState) property is set to `false` to avoid exceptions when binding the grid to a data source.
+Note that the grid's [EnableViewState](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.control.enableviewstate) property is set to `false` to avoid exceptions when binding the grid to a data source.
 
 ## Files to Look At
 
